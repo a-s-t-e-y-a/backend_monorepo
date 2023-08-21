@@ -24,12 +24,13 @@ Follow these steps to get your project up and running:
    nx build org-backend
 
 
-To commit using git bash script:
+5. To commit using git bash script:
    ```sh
    chmod +x gitCommit.sh
     ./gitCommit.sh
 
-To read the api-docs
+
+6. To read the api-docs
    ```sh
    route: /api-docs
 
