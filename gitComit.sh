@@ -28,5 +28,5 @@ read -p "Enter commit message: " commit_message
 # Commit changes
 git add .
 git commit -m "$selected_gitmoji $commit_message"
-
+git push
 echo "Changes committed successfully."
