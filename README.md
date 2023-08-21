@@ -29,4 +29,8 @@ To commit using git bash script:
    chmod +x gitCommit.sh
     ./gitCommit.sh
 
+To read the api-docs
+   ```sh
+   route: /api-docs
+
 
