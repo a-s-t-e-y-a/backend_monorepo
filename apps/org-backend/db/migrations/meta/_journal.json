@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1693462889761,
+      "tag": "0000_cute_justice",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1693464464802,
+      "tag": "0001_early_mach_iv",
+      "breakpoints": true
+    }
+  ]
+}

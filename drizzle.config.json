@@ -1,0 +1,13 @@
+{
+    "out": "./apps/org-backend/db/migrations",
+    "schema": "./apps/org-backend/db/schema",
+    "breakpoints": true,
+    "dbCredentials": {
+      "host": "35.91.69.250",
+      "port": "5432",
+      "user": "postgres",
+      "password": "test",
+      "database": "backend"
+    },
+    "driver":"pg"
+  }
